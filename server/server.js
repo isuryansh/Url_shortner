@@ -1,8 +1,6 @@
 const express = require('express');
 const cors = require('cors');
 const shortUrl = require('./Routes/urlRoutes')
-dotenv.config();
-
 
 const port =  5001;
 
