@@ -1,0 +1,1 @@
+export const home_url = "http://localhost:5173/"
