@@ -1,1 +1,0 @@
-export const server_url = "https://url-shortner-qg3o.onrender.com"

@@ -10,7 +10,7 @@ const App: React.FunctionComponent<IAppProps> = () => {
   return(<>
   <Header/>
   <Container/>
-  <Footer/>
+  <Footer />
   </> );
 };
 

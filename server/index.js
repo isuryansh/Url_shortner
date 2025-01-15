@@ -1,8 +1,9 @@
 const express = require('express');
 const cors = require('cors');
+const dotenv = require('dotenv');
 const shortUrl = require('./Routes/urlRoutes')
-
-const port =  5001;
+dotenv.config();
+const port = process.env.PORT;
 
 const app = express ();
 
